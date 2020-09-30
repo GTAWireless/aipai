@@ -7,7 +7,7 @@ copy ..\..\script.ver  .
 copy ..\..\uboot.boot  .
 copy ..\..\ota.bin .
 
-..\..\isd_download.exe -tonorflash -dev br25 -boot 0x12000 -div8 -wait 300 -uboot uboot.boot -app app.bin cfg_tool.bin -res tone.cfg  -uboot_compress -key 038°Í´ïÄ¾AC690X-379D.key
+..\..\isd_download.exe -tonorflash -dev br25 -boot 0x12000 -div8 -wait 300 -uboot uboot.boot -app app.bin cfg_tool.bin -res tone.cfg  -uboot_compress
 :: -format all
 ::-reboot 2500
 

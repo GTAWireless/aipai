@@ -4547,7 +4547,7 @@
 	"rcsp_bluetooth.h"
 	"JL_rcsp_api.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\adc_api.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\adc_api.c
 	"typedef.h"
 	"asm/clock.h"
 	"asm/adc_api.h"
@@ -4559,71 +4559,71 @@
 	"asm/power_interface.h"
 	"jiffies.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\typedef.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\typedef.h
 	"asm/cpu.h"
 	"generic/errno-base.h"
 	"string.h"
 	"strings.h"
 	"system/malloc.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\cpu.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\cpu.h
 	"br25.h"
 	"csfr.h"
 	"asm/irq.h"
 	"generic/printf.h"
 	"system/generic/log.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\br25.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\br25.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\csfr.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\csfr.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\irq.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\irq.h
 	"asm/hwi.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\hwi.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\hwi.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\printf.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\printf.h
 	<stdarg.h>
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\log.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\log.h
 	"system/generic/printf.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\errno-base.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\errno-base.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\malloc.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\malloc.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\clock.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\clock.h
 	"typedef.h"
 	"clock_hw.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\clock_hw.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\clock_hw.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\adc_api.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\adc_api.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\timer.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\timer.h
 	"typedef.h"
 	"generic/list.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\list.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\list.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\init.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\init.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\efuse.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\efuse.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\irq.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\irq.h
 	"asm/irq.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\power\p33.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\power\p33.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\power_interface.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\power_interface.h
 	"generic/typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\jiffies.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\jiffies.h
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\charge.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\charge.c
 	"asm/clock.h"
 	"timer.h"
 	"asm/power/p33.h"
@@ -4636,83 +4636,83 @@
 	"gpio.h"
 	"debug.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\charge.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\charge.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\uart.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\uart.h
 	"typedef.h"
 	"device/device.h"
 	"generic/ioctl.h"
 	"system/task.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\device.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\device.h
 	"generic/typedef.h"
 	"generic/list.h"
 	"generic/atomic.h"
 	"device/ioctl_cmds.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\atomic.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\atomic.h
 	"cpu.h"
 	"irq.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\cpu.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\cpu.h
 	<asm/cpu.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\ioctl_cmds.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\ioctl_cmds.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\ioctl.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\ioctl.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\task.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\task.h
 	"os/os_api.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\os_api.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\os_api.h
 	"generic/typedef.h"
 	"os/os_cpu.h"
 	"os/os_error.h"
 	"os/os_type.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\os_cpu.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\os_cpu.h
 	"asm/cpu.h"
 	"jiffies.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\os_error.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\os_error.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\os_type.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\os_type.h
 	"FreeRTOS/FreeRTOS.h"
 	"FreeRTOS/semphr.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\freertos.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\freertos.h
 	"FreeRTOSConfig.h"
 	"projdefs.h"
 	"portable.h"
 	<reent.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\freertosconfig.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\freertosconfig.h
 	"pi32v2/portmacro.h"
 	"pi32_lto/portmacro.h"
 	"q32s/portmacro.h"
 	"printf.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\pi32v2\portmacro.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\pi32v2\portmacro.h
 	"asm/cpu.h"
 	<stdint.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\pi32_lto\portmacro.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\pi32_lto\portmacro.h
 	"asm/cpu.h"
 	<stdint.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\q32s\portmacro.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\q32s\portmacro.h
 	"asm/cpu.h"
 	<stdint.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\projdefs.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\projdefs.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\portable.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\portable.h
 	"deprecated_definitions.h"
 	"portmacro.h"
 	"mpu_wrappers.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\deprecated_definitions.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\deprecated_definitions.h
 	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
 	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
 	"../portable/GCC/ATMega323/portmacro.h"
@@ -4771,32 +4771,32 @@
 	"../../Source/portable/IAR/78K0R/portmacro.h"
 	"../../Source/portable/IAR/78K0R/portmacro.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\mpu_wrappers.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\mpu_wrappers.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\semphr.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\semphr.h
 	"queue.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\os\freertos\queue.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\os\freertos\queue.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\event.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\event.h
 	"generic/typedef.h"
 	"generic/list.h"
 	"generic/rect.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\rect.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\rect.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\gpio.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\gpio.h
 	"asm/gpio.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\gpio.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\gpio.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\debug.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\debug.h
 	"asm/cpu.h"
 	"generic/typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\chargestore.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\chargestore.c
 	"generic/typedef.h"
 	"generic/gpio.h"
 	"asm/power/p33.h"
@@ -4806,49 +4806,49 @@
 	"asm/chargestore.h"
 	"update.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\chargestore.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\chargestore.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\update\update.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\update\update.h
 	"typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\iic_hw.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\iic_hw.c
 	"asm/iic_hw.h"
 	"system/generic/gpio.h"
 	"system/generic/log.h"
 	"asm/clock.h"
 	"asm/cpu.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\iic_hw.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\iic_hw.h
 	"system/generic/typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\iic_soft.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\iic_soft.c
 	"asm/iic_soft.h"
 	"generic/gpio.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\iic_soft.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\iic_soft.h
 	"generic/typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\mcpwm.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\mcpwm.c
 	"asm/mcpwm.h"
 	"asm/clock.h"
 	"asm/gpio.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\mcpwm.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\mcpwm.h
 	"typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\port_wkup.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\port_wkup.c
 	"typedef.h"
 	"irq.h"
 	"asm/gpio.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\pwm_led.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\pwm_led.c
 	"generic/gpio.h"
 	"asm/includes.h"
 	"asm/pwm_led.h"
 	"system/timer.h"
 	"board_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\includes.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\includes.h
 	"asm/cpu.h"
 	"asm/crc16.h"
 	"asm/clock.h"
@@ -4865,57 +4865,57 @@
 	"asm/power/p33.h"
 	"asm/timer.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\crc16.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\crc16.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\uart.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\uart.h
 	"device/uart.h"
 	"device/device.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\uart_dev.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\uart_dev.h
 	"typedef.h"
 	"os/os_api.h"
 	"jiffies.h"
 	"irq.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\spiflash.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\spiflash.h
 	"device/device.h"
 	"device/spiflash.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\spiflash.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\spiflash.h
 	"typedef.h"
 	"generic/list.h"
 	"generic/ioctl.h"
 	"device/device.h"
 	"system/task.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\wdt.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\wdt.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\debug.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\debug.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\timer.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\timer.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\pwm_led.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\pwm_led.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_config.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_config.h
 	"board_ac696x_demo_cfg.h"
 	"board_ac6969e_demo_cfg.h"
 	"board_ac6968_demo_cfg.h"
 	"board_ac6963e_demo_cfg.h"
 
-1598517878 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac696x_demo_cfg.h
+1598517878 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac696x_demo_cfg.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac6969e_demo_cfg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac6969e_demo_cfg.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac6968_demo_cfg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac6968_demo_cfg.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac6963e_demo_cfg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac6963e_demo_cfg.h
 	"usb_std_class_def.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\usb_std_class_def.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\usb_std_class_def.h
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\setup.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\setup.c
 	"asm/includes.h"
 	"system/task.h"
 	"timer.h"
@@ -4924,44 +4924,44 @@
 	"gpio.h"
 	"debug.h"
 
-1597146949 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\app_config.h
+1597146949 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\app_config.h
 	"board_config.h"
 	"usb_common_def.h"
 	"btcontroller_mode.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\usb_common_def.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\usb_common_def.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\btcontroller_mode.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\btcontroller_mode.h
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\spi.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\spi.c
 	"system/debug.h"
 	"generic/gpio.h"
 	"asm/clock.h"
 	"asm/spi.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\spi.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\spi.h
 	"typedef.h"
 	"generic/ioctl.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\uart_dev.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\uart_dev.c
 	"asm/clock.h"
 	"asm/uart_dev.h"
 	"asm/cpu.h"
 	"generic/gpio.h"
 	"spinlock.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\spinlock.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\spinlock.h
 	"typedef.h"
 	"cpu.h"
 	"irq.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\ui_driver\lcd_seg\lcd_seg3x9_driver.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\ui_driver\lcd_seg\lcd_seg3x9_driver.c
 	"includes.h"
 	"app_config.h"
 	"ui/ui_api.h"
 	"lcd_seg3x9_driver_cfg.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\includes.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\includes.h
 	"init.h"
 	"event.h"
 	"malloc.h"
@@ -4992,19 +4992,19 @@
 	"crypto_toolbox/aes_cmac.h"
 	"crypto_toolbox/rijndael.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\wait.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\wait.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\app_core.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\app_core.h
 	"typedef.h"
 	"generic/list.h"
 	"system/event.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\app_msg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\app_msg.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\database.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\database.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\fs\fs.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\fs\fs.h
 	"generic/typedef.h"
 	"generic/list.h"
 	"generic/ioctl.h"
@@ -5016,24 +5016,24 @@
 	"fs_file_name.h"
 	"sdfile.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\sys_time.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\sys_time.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\fs\fs_file_name.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\fs\fs_file_name.h
 	"generic/typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\fs\sdfile.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\fs\sdfile.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\power_manage.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\power_manage.h
 	"generic/typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\syscfg_id.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\syscfg_id.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\bank_switch.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\bank_switch.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\includes.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\includes.h
 	"errno-base.h"
 	"typedef.h"
 	"ascii.h"
@@ -5053,32 +5053,32 @@
 	"index.h"
 	"debug_lite.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\ascii.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\ascii.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\version.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\version.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\lbuf.h
-	"typedef.h"
-	"list.h"
-	"system/spinlock.h"
-
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\lbuf_lite.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\lbuf.h
 	"typedef.h"
 	"list.h"
 	"system/spinlock.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\circular_buf.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\lbuf_lite.h
+	"typedef.h"
+	"list.h"
+	"system/spinlock.h"
+
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\circular_buf.h
 	"typedef.h"
 	"system/spinlock.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\index.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\index.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\generic\debug_lite.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\generic\debug_lite.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\includes.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\includes.h
 	"device.h"
 	"ioctl_cmds.h"
 	"key_driver.h"
@@ -5089,103 +5089,103 @@
 	"touch_key.h"
 	"rdec_key.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\key_driver.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\key_driver.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\iokey.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\iokey.h
 	"typedef.h"
 	"device/device.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\irkey.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\irkey.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\adkey.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\adkey.h
 	"typedef.h"
 	"asm/adc_api.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\slidekey.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\slidekey.h
 	"typedef.h"
 	"device/device.h"
 	"asm/adc_api.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\touch_key.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\touch_key.h
 	"typedef.h"
 	"asm/plcnt.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\plcnt.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\plcnt.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\rdec_key.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\rdec_key.h
 	"typedef.h"
 	"asm/rdec.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\rdec.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\rdec.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\sdio_host_init.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\sdio_host_init.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\crypto.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\crypto.h
 	"endian.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\endian.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\endian.h
 	"generic/typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\crypto_hash.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\crypto_hash.h
 	"generic/typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\hmac.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\hmac.h
 	"crypto.h"
 	"sha256.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\sha256.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\sha256.h
 	"crypto.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\bigint.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\bigint.h
 	"bigint_impl.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\bigint_impl.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\bigint_impl.h
 	"generic/typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\ecdh.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\ecdh.h
 	"bigint_impl.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\micro-ecc\uecc_new.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\micro-ecc\uecc_new.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\micro-ecc\uecc.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\micro-ecc\uecc.h
 	<stdint.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\aes_cmac.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\aes_cmac.h
 	<stdint.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\crypto_toolbox\rijndael.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\crypto_toolbox\rijndael.h
 	<stdint.h>
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\ui_driver\led7\led7_driver.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\ui_driver\led7\led7_driver.c
 	"includes.h"
 	"app_config.h"
 	"system/device/vm.h"
 	"ui/ui_api.h"
 	"led7_driver_cfg.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\vm.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\vm.h
 	"ioctl.h"
 	"device/device.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\ui_driver\led_1888\led1888.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\ui_driver\led_1888\led1888.c
 	"includes.h"
 	"app_config.h"
 	"ui/ui_api.h"
 	"LED1888.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\cpu\br25\ui_driver\ui_common.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\cpu\br25\ui_driver\ui_common.c
 	"includes.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\key\adkey.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\key\adkey.c
 	"key_driver.h"
 	"adkey.h"
 	"gpio.h"
 	"system/event.h"
 	"app_config.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\key\iokey.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\key\iokey.c
 	"key_driver.h"
 	"iokey.h"
 	"gpio.h"
@@ -5193,7 +5193,7 @@
 	"app_config.h"
 	"asm/clock.h"
 
-1597202529 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\key\key_driver.c
+1597202529 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\key\key_driver.c
 	"device/key_driver.h"
 	"system/event.h"
 	"system/init.h"
@@ -5210,7 +5210,7 @@
 	"debug.h"
 	"asm/ctmu.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\common\custom_cfg.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\common\custom_cfg.c
 	"board_config.h"
 	"custom_cfg.h"
 	"app_config.h"
@@ -5222,15 +5222,15 @@
 	<string.h>
 	"flash_api.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\common\custom_cfg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\common\custom_cfg.h
 	"typedef.h"
 	<string.h>
 	"app_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_user_update.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_user_update.h
 	"typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bluetooth.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bluetooth.c
 	<stdlib.h>
 	<string.h>
 	<unistd.h>
@@ -5257,19 +5257,19 @@
 	"ui/ui_api.h"
 	"audio_eq.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bluetooth.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bluetooth.h
 	"typedef.h"
 	"le_common.h"
 	"spp_user.h"
 	"system/event.h"
 	"rcsp_msg.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\le_common.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\le_common.h
 	"typedef.h"
 	<stdint.h>
 	"btstack/bluetooth.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\bluetooth.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\bluetooth.h
 	"typedef.h"
 	"le/ble_data_types.h"
 	"le/ble_api.h"
@@ -5283,37 +5283,37 @@
 	"third_party/baidu/dueros_platform.h"
 	"btstack_event.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\le\ble_data_types.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\le\ble_data_types.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\le\ble_api.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\le\ble_api.h
 	"typedef.h"
 	"btstack/btstack_typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\btstack_typedef.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\btstack_typedef.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\le\le_user.h
-	"typedef.h"
-	"btstack/btstack_typedef.h"
-
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\le\att.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\le\le_user.h
 	"typedef.h"
 	"btstack/btstack_typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\le\gatt.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\le\att.h
+	"typedef.h"
+	"btstack/btstack_typedef.h"
+
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\le\gatt.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\le\sm.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\le\sm.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\third_party\baidu\dma_protobuf.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\third_party\baidu\dma_protobuf.h
 	<string.h>
 	<stdint.h>
 	<limits.h>
 	<stddef.h>
 	<stdint.h>
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\third_party\baidu\dueros_dma.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\third_party\baidu\dueros_dma.h
 	<string.h>
 	<stdint.h>
 	"btstack/third_party/baidu/dueros_dma_pb.h"
@@ -5321,77 +5321,77 @@
 	"typedef.h"
 	"btstack/frame_queque.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\third_party\baidu\dueros_dma_pb.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\third_party\baidu\dueros_dma_pb.h
 	<string.h>
 	<stdint.h>
 	"dma_protobuf.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\third_party\baidu\dueros_platform.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\third_party\baidu\dueros_platform.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\frame_queque.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\frame_queque.h
 	<string.h>
 	<stdint.h>
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\btstack_event.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\btstack_event.h
 	"btstack/btstack_typedef.h"
 	<stdint.h>
 	"le/gatt.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_user.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_user.h
 	"typedef.h"
 	"bt_common.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\include\bt_common.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\include\bt_common.h
 	<stdint.h>
 	"app_config.h"
 	"lib_profile_cfg.h"
 	"bt_profile_cfg.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\lib_profile_cfg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\lib_profile_cfg.h
 	"app_config.h"
 	"btcontroller_modules.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\btcontroller_modules.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\btcontroller_modules.h
 	"hci_transport.h"
 	"btcontroller_mode.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\hci_transport.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\hci_transport.h
 	"generic/typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_msg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_msg.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\ai_stack\jl_rcsp\jl_rcsp_api.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\ai_stack\jl_rcsp\jl_rcsp_api.h
 	"typedef.h"
 	"uart.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\ai_stack\jl_rcsp\jl_rcsp_protocol.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\ai_stack\jl_rcsp\jl_rcsp_protocol.h
 	"typedef.h"
 	"JL_rcsp_packet.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\ai_stack\jl_rcsp\jl_rcsp_packet.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\ai_stack\jl_rcsp\jl_rcsp_packet.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\avctp_user.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\avctp_user.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\app_action.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\app_action.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\file_operate\file_operate.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\file_operate\file_operate.h
 	"system/fs/fs.h"
 	"storage_dev/storage_dev.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\storage_dev\storage_dev.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\storage_dev\storage_dev.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bs_api.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_bs_api.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\key_event_deal.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\key_event_deal.h
 	"typedef.h"
 	"event.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_ch_loader_download.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_ch_loader_download.c
 	"update.h"
 	"uart.h"
 	"update_loader_download.h"
@@ -5404,19 +5404,19 @@
 	"update_tws.h"
 	"bt_tws.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\update\update_loader_download.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\update\update_loader_download.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\bt_trans_data\le_rcsp_adv_module.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\bt_trans_data\le_rcsp_adv_module.h
 	<stdint.h>
 	"bt_common.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\include\update_tws.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\include\update_tws.h
 	"app_config.h"
 	"system/event.h"
 	"update_loader_download.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_user_update.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\jl_rcsp\rcsp_updata\rcsp_user_update.c
 	"rcsp_user_update.h"
 	"app_config.h"
 	"uart.h"
@@ -5430,18 +5430,18 @@
 	"update_loader_download.h"
 	"classic/tws_api.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\classic\tws_api.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\classic\tws_api.h
 	"typedef.h"
 	"classic/tws_event.h"
 	"classic/tws_local_media_sync.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\classic\tws_event.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\classic\tws_event.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\classic\tws_local_media_sync.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\classic\tws_local_media_sync.h
 	"generic/list.h"
 	"generic/typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\le_at_com.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\le_at_com.c
 	"system/app_core.h"
 	"system/includes.h"
 	"app_config.h"
@@ -5459,25 +5459,25 @@
 	"rcsp_bluetooth.h"
 	"JL_rcsp_api.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\btstack_task.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\btstack_task.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\user_cfg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\user_cfg.h
 	"typedef.h"
 	"app_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\common\3th_profile_api.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\common\3th_profile_api.h
 	<string.h>
 	<stdint.h>
 	"le_common.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\at.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\at.h
 	"typedef.h"
 
-1597219891 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\le_at_com.h
+1597219891 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\le_at_com.h
 	<stdint.h>
 	"bt_common.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\le_client_demo.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\le_client_demo.c
 	"system/app_core.h"
 	"system/includes.h"
 	"app_config.h"
@@ -5491,10 +5491,10 @@
 	"le_client_demo.h"
 	"le_common.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\le_client_demo.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\le_client_demo.h
 	<stdint.h>
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\spp_at_com.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\spp_at_com.c
 	"app_config.h"
 	"app_action.h"
 	"system/includes.h"
@@ -5507,15 +5507,15 @@
 	"spp_at_com.h"
 	"at.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.h
 	"typedef.h"
 	"bt_common.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\spp_at_com.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\spp_at_com.h
 	"typedef.h"
 	"bt_common.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.c
 	"app_config.h"
 	"app_action.h"
 	"system/includes.h"
@@ -5526,7 +5526,7 @@
 	"bt_common.h"
 	"spp_trans_data.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_user.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\spp_user.c
 	"system/includes.h"
 	"spp_user.h"
 	"string.h"
@@ -5536,7 +5536,7 @@
 	"classic/tws_api.h"
 	"bt_common.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\update\update.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\update\update.c
 	"update.h"
 	"update_loader_download.h"
 	"asm/crc16.h"
@@ -5553,40 +5553,40 @@
 	"audio_config.h"
 	"asm/pwm_led.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\device\descriptor.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\device\descriptor.c
 	"usb/device/usb_stack.h"
 	"usb/device/descriptor.h"
 	"usb/device/uac_audio.h"
 	"app_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\device\usb_stack.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\device\usb_stack.h
 	"typedef.h"
 	"asm/usb.h"
 	"usb/ch9.h"
 	"usb/usb_phy.h"
 	"usb/otg.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\cpu\br25\asm\usb.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\cpu\br25\asm\usb.h
 	"typedef.h"
 	"generic/ioctl.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\ch9.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\ch9.h
 	"typedef.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\usb_phy.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\usb_phy.h
 	"typedef.h"
 	"asm/usb.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\otg.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\otg.h
 	"asm/usb.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\device\descriptor.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\device\descriptor.h
 	"asm/usb.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\device\uac_audio.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\device\uac_audio.h
 	"asm/usb.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\device\task_pc.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\device\task_pc.c
 	"system/app_core.h"
 	"system/includes.h"
 	"server/server_core.h"
@@ -5605,25 +5605,25 @@
 	"asm/charge.h"
 	"debug.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\server\server_core.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\server\server_core.h
 	"generic/typedef.h"
 	"system/task.h"
 	"spinlock.h"
 	"list.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\app_task.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\app_task.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\sdmmc.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\sdmmc.h
 	"generic/typedef.h"
 	"generic/ioctl.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\usb_config.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\usb_config.h
 	"typedef.h"
 	"asm/usb.h"
 	"usb/device/usb_stack.h"
 	"usb/host/usb_host.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\host\usb_host.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\host\usb_host.h
 	"system/task.h"
 	"device/device.h"
 	"asm/usb.h"
@@ -5631,21 +5631,21 @@
 	"usb/usb_phy.h"
 	"usb_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\device\hid.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\device\hid.h
 	"typedef.h"
 	"asm/usb.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\device\msd.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\device\msd.h
 	"asm/usb.h"
 	"usb_stack.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\power_manage\app_charge.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\power_manage\app_charge.h
 	"typedef.h"
 	"system/event.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\media\media_develop\media\audio_base.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\media\media_develop\media\audio_base.h
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\device\usb_device.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\device\usb_device.c
 	"usb/device/usb_stack.h"
 	"usb_config.h"
 	"usb/device/msd.h"
@@ -5657,9 +5657,9 @@
 	"gpio.h"
 	"app_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\driver\device\usb\scsi.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\driver\device\usb\scsi.h
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\device\user_setup.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\device\user_setup.c
 	"usb/device/usb_stack.h"
 	"usb_config.h"
 	"usb/device/msd.h"
@@ -5672,7 +5672,7 @@
 	"app_config.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\usb_bulk_transfer.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\usb_bulk_transfer.c
 	<string.h>
 	"jiffies.h"
 	"usb_config.h"
@@ -5685,31 +5685,31 @@
 	"device_drive.h"
 	"debug.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\usb_bulk_transfer.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\usb_bulk_transfer.h
 	"typedef.h"
 	"device/device.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\usb_ctrl_transfer.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\usb_ctrl_transfer.h
 	"usb/ch9.h"
 	"usb/usb_phy.h"
 	"device/device.h"
 	"usb_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\usb_storage.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\usb_storage.h
 	"system/task.h"
 	"device/device.h"
 	"usb/scsi.h"
 	"usb_bulk_transfer.h"
 	"usb/host/usb_host.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\device\device_drive.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\device\device_drive.h
 	"typedef.h"
 	"errno-base.h"
 	"ioctl.h"
 	"os/os_api.h"
 	<pthread.h>
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\usb_ctrl_transfer.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\usb_ctrl_transfer.c
 	"usb/host/usb_host.h"
 	"usb_ctrl_transfer.h"
 	"app_config.h"
@@ -5718,7 +5718,7 @@
 	"usb/scsi.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\usb_host.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\usb_host.c
 	"includes.h"
 	"app_config.h"
 	"device_drive.h"
@@ -5732,23 +5732,23 @@
 	"hid.h"
 	"debug.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\adb.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\adb.h
 	"system/task.h"
 	"device/device.h"
 	"usb/scsi.h"
 	"usb_bulk_transfer.h"
 	"usb/host/usb_host.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\aoa.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\aoa.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\hid.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\hid.h
 	"system/task.h"
 	"device/device.h"
 	"usb/scsi.h"
 	"usb_bulk_transfer.h"
 	"usb/host/usb_host.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\host\usb_storage.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\host\usb_storage.c
 	"asm/includes.h"
 	"system/timer.h"
 	"device/ioctl_cmds.h"
@@ -5761,7 +5761,7 @@
 	"app_config.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\usb_config.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\usb_config.c
 	"usb_config.h"
 	"usb/scsi.h"
 	"irq.h"
@@ -5770,7 +5770,7 @@
 	"app_config.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\usb\usb_host_config.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\usb\usb_host_config.c
 	"usb_config.h"
 	"usb/scsi.h"
 	"irq.h"
@@ -5779,11 +5779,11 @@
 	"app_config.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\debug.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\debug.c
 	"app_config.h"
 	"typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\app_at_com.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\app_at_com.c
 	"system/app_core.h"
 	"system/includes.h"
 	"server/server_core.h"
@@ -5799,23 +5799,23 @@
 	"rcsp_bluetooth.h"
 	"debug.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\port\br25\btcontroller_config.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\port\br25\btcontroller_config.h
 	"btcontroller_modules.h"
 	"ble/ll_config.h"
 	"classic/lmp_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\ble\ll_config.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\ble\ll_config.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\classic\lmp_config.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\classic\lmp_config.h
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btctrler\btctrler_task.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btctrler\btctrler_task.h
 	"typedef.h"
 	"system/task.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\system\config\config_transport.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\system\config\config_transport.h
 	"typedef.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\app_charge.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\app_charge.c
 	"app_config.h"
 	"asm/charge.h"
 	"asm/pwm_led.h"
@@ -5827,9 +5827,9 @@
 	"app_main.h"
 	"debug.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\app_main.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\app_main.h
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\app_dongle.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\app_dongle.c
 	"system/app_core.h"
 	"system/includes.h"
 	"server/server_core.h"
@@ -5849,7 +5849,7 @@
 	"usb/device/hid.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\app_idle.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\app_idle.c
 	"system/app_core.h"
 	"system/includes.h"
 	"server/server_core.h"
@@ -5857,7 +5857,7 @@
 	"app_action.h"
 	"debug.h"
 
-1599127319 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\app_main.c
+1599127319 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\app_main.c
 	"system/includes.h"
 	"app_config.h"
 	"app_action.h"
@@ -5866,7 +5866,7 @@
 	"debug.h"
 	"asm/pwm_led.h"
 
-1597373528 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\app_spp_and_le.c
+1597373528 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\app_spp_and_le.c
 	"system/app_core.h"
 	"system/includes.h"
 	"server/server_core.h"
@@ -5884,7 +5884,7 @@
 	"app_charge.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\at_cmds.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\at_cmds.c
 	"system/app_core.h"
 	"system/includes.h"
 	"server/server_core.h"
@@ -5902,7 +5902,7 @@
 	"le_at_com.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\at_uart.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\at_uart.c
 	"system/app_core.h"
 	"system/includes.h"
 	"server/server_core.h"
@@ -5918,7 +5918,7 @@
 	"at.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\hid_mouse_keyboard.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\hid_mouse_keyboard.c
 	"os/os_api.h"
 	"app_config.h"
 	"usb/device/usb_stack.h"
@@ -5926,17 +5926,17 @@
 	"usb_config.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\lib_config\lib_btctrler_config.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\lib_config\lib_btctrler_config.c
 	"app_config.h"
 	"system/includes.h"
 	"btcontroller_config.h"
 	"bt_common.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\lib_config\lib_driver_config.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\lib_config\lib_driver_config.c
 	"app_config.h"
 	"system/includes.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\lib_config\lib_profile_config.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\lib_config\lib_profile_config.c
 	"system/includes.h"
 	"app_config.h"
 	"btcontroller_config.h"
@@ -5945,34 +5945,34 @@
 	"btstack/avctp_user.h"
 	"debug.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\include_lib\btstack\bt_profile_config.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\include_lib\btstack\bt_profile_config.h
 
-1597290012 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\lib_config\lib_system_config.c
+1597290012 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\lib_config\lib_system_config.c
 	"app_config.h"
 	"system/includes.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\lib_config\lib_update_config.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\lib_config\lib_update_config.c
 	"app_config.h"
 	"system/includes.h"
 	"update_loader_download.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\log_config.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\log_config.c
 	"system/includes.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\misc.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\misc.c
 	"system/includes.h"
 	"server/server_core.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\rtc_alarm.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\rtc_alarm.c
 	"rtc_alarm.h"
 	"system/timer.h"
 	"app_config.h"
 
-1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\include\rtc_alarm.h
+1594285426 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\include\rtc_alarm.h
 	"typedef.h"
 	"system/includes.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\user_cfg.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\user_cfg.c
 	"app_config.h"
 	"user_cfg.h"
 	"fs.h"
@@ -5983,11 +5983,11 @@
 	"app_main.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\version.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\version.c
 	"system/includes.h"
 	"generic/log.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac6963e_demo.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac6963e_demo.c
 	"app_config.h"
 	"system/includes.h"
 	"asm/charge.h"
@@ -5996,7 +5996,7 @@
 	"asm/pwm_led.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac6968_demo.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac6968_demo.c
 	"app_config.h"
 	"system/includes.h"
 	"asm/charge.h"
@@ -6005,7 +6005,7 @@
 	"asm/pwm_led.h"
 	"debug.h"
 
-1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac6969e_demo.c
+1594285426 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac6969e_demo.c
 	"app_config.h"
 	"system/includes.h"
 	"asm/charge.h"
@@ -6014,7 +6014,7 @@
 	"asm/pwm_led.h"
 	"debug.h"
 
-1597374696 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\spp_and_le\board\br25\board_ac696x_demo.c
+1597374696 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\spp_and_le\board\br25\board_ac696x_demo.c
 	"app_config.h"
 	"system/includes.h"
 	"asm/charge.h"
@@ -6023,7 +6023,7 @@
 	"asm/pwm_led.h"
 	"debug.h"
 
-1601186538 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c
+1601191369 source:c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c
 	"system/app_core.h"
 	"system/includes.h"
 	"app_config.h"
@@ -6042,11 +6042,11 @@
 	"aipai_new_data.h"
 	"asm/pwm_led.h"
 
-1597312283 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.h
+1597312283 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.h
 	<stdint.h>
 	"app_config.h"
 
-1597375639 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节旧版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\aipai_new_data.h
+1597375639 c:\users\zpc20-016\desktop\爱拍设备\sdk_030支持速度调节新版\sdk\apps\common\third_party_profile\jieli\trans_data_demo\aipai_new_data.h
 	"system/app_core.h"
 	"system/includes.h"
 	"app_config.h"

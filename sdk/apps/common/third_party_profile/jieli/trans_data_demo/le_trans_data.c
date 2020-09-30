@@ -684,7 +684,7 @@ void motor_pwm()
         times=0;
 }
 
-static void motor_led_control(u8 motor,u8 speed)
+static void motor_led_control(u8 motor,u8 speed, u8 led)
 {
     direction = motor;
     motor_speed = speed;
@@ -707,7 +707,7 @@ static void motor_led_control(u8 motor,u8 speed)
         log_info("\n stop \n");
     }
 //
-//    LED_WRITE( led & 0x1 );
+    LED_WRITE( led & 0x1 );
 
 }
 
@@ -792,7 +792,15 @@ static void app_cmd_resolver(u8 cmd, u8 *buffer)
 
 
         case CMD_APP_CONTROL:
-            motor_led_control(buffer[3], buffer[4]);
+            if(buffer[2] == 2) //兼容旧版本
+            {
+                motor_led_control(buffer[3], buffer[4], 0);
+            }
+            if(buffer[2] == 3)
+            {
+                motor_led_control(buffer[3], buffer[4], buffer[5]);
+
+            }
             break;
 
     }
@@ -827,7 +835,7 @@ static int att_write_callback(hci_con_handle_t connection_handle, uint16_t att_h
 			break;
 
         case 0X00:  //断开连接的handle是0, 断开连接, 需要停止转动,关灯,重置验证
-            motor_led_control(3,0);
+            motor_led_control(3,0,0);
             pwm_led_mode_set(PWM_LED1_FAST_FLASH);
             safe_flag = 0;
 
