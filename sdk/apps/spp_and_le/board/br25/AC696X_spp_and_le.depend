@@ -7373,7 +7373,7 @@
 	"app_action.h"
 	"debug.h"
 
-1603156271 source:c:\users\zpc20-016\desktop\aipai sdk\aipai\sdk\apps\spp_and_le\app_main.c
+1603173960 source:c:\users\zpc20-016\desktop\aipai sdk\aipai\sdk\apps\spp_and_le\app_main.c
 	"system/includes.h"
 	"app_config.h"
 	"app_action.h"
@@ -7530,7 +7530,7 @@
 	"asm/pwm_led.h"
 	"debug.h"
 
-1597374696 source:c:\users\zpc20-016\desktop\aipai sdk\aipai\sdk\apps\spp_and_le\board\br25\board_ac696x_demo.c
+1603174228 source:c:\users\zpc20-016\desktop\aipai sdk\aipai\sdk\apps\spp_and_le\board\br25\board_ac696x_demo.c
 	"app_config.h"
 	"system/includes.h"
 	"asm/charge.h"
@@ -7539,7 +7539,7 @@
 	"asm/pwm_led.h"
 	"debug.h"
 
-1603156407 source:c:\users\zpc20-016\desktop\aipai sdk\aipai\sdk\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c
+1603174340 source:c:\users\zpc20-016\desktop\aipai sdk\aipai\sdk\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c
 	"system/app_core.h"
 	"system/includes.h"
 	"app_config.h"

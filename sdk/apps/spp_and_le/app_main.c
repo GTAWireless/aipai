@@ -59,6 +59,7 @@ extern void power_set_soft_poweroff(void);
 static void check_power_on_key()
 {
     u32 delay_10ms_cnt = 0;
+
     while(1)
     {
 
@@ -82,6 +83,8 @@ static void check_power_on_key()
     }
 
 }
+
+
 
 void app_main()
 {

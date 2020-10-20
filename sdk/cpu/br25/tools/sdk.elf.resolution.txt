@@ -345,6 +345,13 @@ obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_get_adv_data_ptr,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_get_gatt_profile_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_update_get_ready_jump_flag,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ctrl_io_init,pl
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_pull_up,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_pull_down,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_direction,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_die,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_dieh,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,timer_pwm_init,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_sm_setup_init,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sm_init,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sm_set_io_capabilities,l
@@ -386,12 +393,6 @@ obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sys_timeout_add,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,puts,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,le_controller_get_mac,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_pull_up,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_pull_down,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_direction,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_die,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_dieh,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,timer_pwm_init,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,profile_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,user_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,jlid,pl
@@ -1077,6 +1078,7 @@ obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o
 -r=obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o,debug_uart_init,pl
 -r=obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o,uart_init,l
 -r=obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o,board_init,pl
+-r=obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o,ctrl_io_init,l
 -r=obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o,board_power_init,pl
 -r=obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o,adc_vbg_init,l
 -r=obj\Release\apps\spp_and_le\board\br25\board_ac696x_demo.o,adc_init,l

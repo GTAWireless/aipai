@@ -168,8 +168,12 @@ static void board_devices_init(void)
 }
 
 extern void cfg_file_parse(u8 idx);
+extern void ctrl_io_init(void);
 void board_init()
 {
+    ctrl_io_init();
+
+
     board_power_init();
     adc_vbg_init();
     adc_init();

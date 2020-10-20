@@ -628,47 +628,8 @@ static uint16_t att_read_callback(hci_con_handle_t connection_handle, uint16_t a
 extern void set_timer_pwm_duty(JL_TIMER_TypeDef * JL_TIMERx, u32 duty);
 extern void timer_pwm_init(JL_TIMER_TypeDef * JL_TIMERx, u32 pin, u32 fre, u32 duty);
 
-
-
-//void motor_shun(u8 speed)
-//{
-//    timer_pwm_init(timer, IO_IN_A ,10000, speed*1000);
-//
-//    gpio_set_pull_up(IO_IN_B, 0);
-//	gpio_set_pull_down(IO_IN_B, 0);
-//	gpio_set_direction(IO_IN_B, 0);
-//	gpio_set_die(IO_IN_B, 1);
-//	gpio_set_dieh(IO_IN_B, 0);
-//    gpio_write(IO_IN_B,1);
-//
-//}
-//
-//void motor_ni(u8 speed)
-//{
-//    timer_pwm_init(timer, IO_IN_B ,10000, speed*1000);
-//
-//    gpio_set_pull_up(IO_IN_A, 0);
-//	gpio_set_pull_down(IO_IN_A, 0);
-//	gpio_set_direction(IO_IN_A, 0);
-//	gpio_set_die(IO_IN_A, 1);
-//	gpio_set_dieh(IO_IN_A, 0);
-//    gpio_write(IO_IN_A,1);
-//}
-//
-//void motor_stop()
-//{
-//
-//    timer_pwm_init(timer, IO_IN_B ,10000, 0);
-//
-//    gpio_set_pull_up(IO_IN_A, 0);
-//	gpio_set_pull_down(IO_IN_A, 0);
-//	gpio_set_direction(IO_IN_A, 0);
-//	gpio_set_die(IO_IN_A, 1);
-//	gpio_set_dieh(IO_IN_A, 0);
-//    gpio_write(IO_IN_A,0);
-//}
-
-static void ctrl_io_init(void)
+//硬件初始化, 提供板级初始化调用
+void ctrl_io_init(void)
 {
 	gpio_set_pull_up(IO_IN_A, 0);
 	gpio_set_pull_down(IO_IN_A, 0);
@@ -676,7 +637,14 @@ static void ctrl_io_init(void)
 	gpio_set_die(IO_IN_A, 1);
 	gpio_set_dieh(IO_IN_A, 0);
 
-	//pwm初始化使用PB5输出
+	//防止红灯闪烁
+	gpio_set_pull_up(IO_PORTB_01, 0);
+	gpio_set_pull_down(IO_PORTB_01, 0);
+	gpio_set_direction(IO_PORTB_01, 0);
+	gpio_set_die(IO_PORTB_01, 1);
+	gpio_set_dieh(IO_PORTB_01, 0);
+
+	//pwm初始化使用PB7输出 (千万不要用PB5, 有问题)
 	timer_pwm_init(timer, IO_IN_B ,10000, 0);
 
 	//绿色LED
@@ -685,36 +653,29 @@ static void ctrl_io_init(void)
 	gpio_set_direction(IO_LED_GREEN, 0);
 	gpio_set_die(IO_LED_GREEN, 1);
 	gpio_set_dieh(IO_LED_GREEN, 0);
-
-
 }
 
 
 static void motor_led_control(u8 direction,u8 speed, u8 led)
 {
 
-
     log_info("\n motor_speed = %d \n",speed);
 
     if( direction == 1 )
     {
         MOTOR_NI
-//        motor_shun(speed);
         log_info("\n turn shun \n");
     }
     else if( direction == 2 )
     {
         MOTOR_SHUN
-//        motor_ni(speed);
         log_info("\n turn ni \n");
     }
     else if( direction == 3 )
     {
         MOTOR_STOP
-//        motor_stop();
         log_info("\n stop \n");
     }
-//
     LED_WRITE( led & 0x1 );
 
 }
@@ -1337,7 +1298,7 @@ void bt_ble_init(void)
     server_timer_start();
 #endif
 
-    ctrl_io_init();
+//    ctrl_io_init();
 
 }
 
