@@ -612,9 +612,62 @@ static uint16_t att_read_callback(hci_con_handle_t connection_handle, uint16_t a
 
 
 
-#define IO_IN_A    IO_PORTB_07
-#define IO_IN_B    IO_PORTB_05
+/***************************************爱拍设备源码***************************************************/
+#define timer JL_TIMER5
+#define IO_IN_A    IO_PORTB_05
+#define IO_IN_B    IO_PORTB_07
 #define IO_LED_GREEN    IO_PORTB_00
+
+#define MOTOR_SHUN {gpio_write(IO_IN_A,1); set_timer_pwm_duty(timer, 10000-speed*1000) ;}  //
+#define MOTOR_NI {gpio_write(IO_IN_A,0); set_timer_pwm_duty(timer, speed*1000);}
+#define MOTOR_STOP {gpio_write(IO_IN_A,0);set_timer_pwm_duty(timer, 0);}
+#define LED_WRITE(x) gpio_write(IO_LED_GREEN,x);
+
+#define CMD_APP_IDENTIFICATION 0X01
+#define CMD_APP_CONTROL 0X20
+extern void set_timer_pwm_duty(JL_TIMER_TypeDef * JL_TIMERx, u32 duty);
+extern void timer_pwm_init(JL_TIMER_TypeDef * JL_TIMERx, u32 pin, u32 fre, u32 duty);
+
+
+
+//void motor_shun(u8 speed)
+//{
+//    timer_pwm_init(timer, IO_IN_A ,10000, speed*1000);
+//
+//    gpio_set_pull_up(IO_IN_B, 0);
+//	gpio_set_pull_down(IO_IN_B, 0);
+//	gpio_set_direction(IO_IN_B, 0);
+//	gpio_set_die(IO_IN_B, 1);
+//	gpio_set_dieh(IO_IN_B, 0);
+//    gpio_write(IO_IN_B,1);
+//
+//}
+//
+//void motor_ni(u8 speed)
+//{
+//    timer_pwm_init(timer, IO_IN_B ,10000, speed*1000);
+//
+//    gpio_set_pull_up(IO_IN_A, 0);
+//	gpio_set_pull_down(IO_IN_A, 0);
+//	gpio_set_direction(IO_IN_A, 0);
+//	gpio_set_die(IO_IN_A, 1);
+//	gpio_set_dieh(IO_IN_A, 0);
+//    gpio_write(IO_IN_A,1);
+//}
+//
+//void motor_stop()
+//{
+//
+//    timer_pwm_init(timer, IO_IN_B ,10000, 0);
+//
+//    gpio_set_pull_up(IO_IN_A, 0);
+//	gpio_set_pull_down(IO_IN_A, 0);
+//	gpio_set_direction(IO_IN_A, 0);
+//	gpio_set_die(IO_IN_A, 1);
+//	gpio_set_dieh(IO_IN_A, 0);
+//    gpio_write(IO_IN_A,0);
+//}
+
 static void ctrl_io_init(void)
 {
 	gpio_set_pull_up(IO_IN_A, 0);
@@ -623,11 +676,8 @@ static void ctrl_io_init(void)
 	gpio_set_die(IO_IN_A, 1);
 	gpio_set_dieh(IO_IN_A, 0);
 
-	gpio_set_pull_up(IO_IN_B, 0);
-	gpio_set_pull_down(IO_IN_B, 0);
-	gpio_set_direction(IO_IN_B, 0);
-	gpio_set_die(IO_IN_B, 1);
-	gpio_set_dieh(IO_IN_B, 0);
+	//pwm初始化使用PB5输出
+	timer_pwm_init(timer, IO_IN_B ,10000, 0);
 
 	//绿色LED
 	gpio_set_pull_up(IO_LED_GREEN, 0);
@@ -635,75 +685,33 @@ static void ctrl_io_init(void)
 	gpio_set_direction(IO_LED_GREEN, 0);
 	gpio_set_die(IO_LED_GREEN, 1);
 	gpio_set_dieh(IO_LED_GREEN, 0);
-}
-#define MOTOR_SHUN {gpio_write(IO_IN_A,1);gpio_write(IO_IN_B,0);}
-#define MOTOR_NI {gpio_write(IO_IN_A,0);gpio_write(IO_IN_B,1);}
-#define MOTOR_STOP {gpio_write(IO_IN_A,0);gpio_write(IO_IN_B,0);}
-#define LED_WRITE(x) gpio_write(IO_LED_GREEN,x);
 
 
-
-
-u8 direction = 3;
-u8 motor_speed = 0;
-
-void motor_pwm()
-{
-    static u8 times=0;
-
-
-
-    if(times < motor_speed)
-    {
-
-        if(direction==1)
-        {
-            MOTOR_SHUN
-//            log_info("\n turn shun \n");
-        }
-        else if( direction == 2 )
-        {
-            MOTOR_NI
-//            log_info("\n turn ni \n");
-        }
-        else if( direction == 3 )
-        {
-            MOTOR_STOP
-//            log_info("\n stop \n");
-        }
-
-
-    }else{
-        MOTOR_STOP;
-//        log_info("\n stop \n");
-    }
-
-    times++;
-
-    if(times==10)
-        times=0;
 }
 
-static void motor_led_control(u8 motor,u8 speed, u8 led)
+
+static void motor_led_control(u8 direction,u8 speed, u8 led)
 {
-    direction = motor;
-    motor_speed = speed;
 
-    log_info("\n motor_speed = %d \n",motor_speed);
 
-    if( motor == 1 )
-    {
-        MOTOR_SHUN
-        log_info("\n turn shun \n");
-    }
-    else if( motor == 2 )
+    log_info("\n motor_speed = %d \n",speed);
+
+    if( direction == 1 )
     {
         MOTOR_NI
+//        motor_shun(speed);
+        log_info("\n turn shun \n");
+    }
+    else if( direction == 2 )
+    {
+        MOTOR_SHUN
+//        motor_ni(speed);
         log_info("\n turn ni \n");
     }
-    else if( motor == 3 )
+    else if( direction == 3 )
     {
         MOTOR_STOP
+//        motor_stop();
         log_info("\n stop \n");
     }
 //
@@ -718,8 +726,7 @@ void prevent_take_up()
         ble_disconnect(0);
 }
 
-#define CMD_APP_IDENTIFICATION 0X01
-#define CMD_APP_CONTROL 0X20
+
 
 static void app_cmd_resolver(u8 cmd, u8 *buffer)
 {
@@ -787,7 +794,7 @@ static void app_cmd_resolver(u8 cmd, u8 *buffer)
             printf_buf(respond_app, 12);
 
             safe_flag = 1;  //安全
-            sys_timer_add(NULL, motor_pwm, 10);
+
             break;
 
 
@@ -805,6 +812,19 @@ static void app_cmd_resolver(u8 cmd, u8 *buffer)
 
     }
 }
+//-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* LISTING_END */
 /*

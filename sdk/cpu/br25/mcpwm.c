@@ -442,36 +442,15 @@ void mcpwm_test(void)
 
 #define		OSC_Hz		24000000
 /**
- * @param JL_TIMERx : JL_TIMER0/1/2/3/4/5
+ * @param JL_TIMERx : JL_TIMER0/1/2/3/4/5   ;  一个一个试,哪个能用用哪个吧
  * @param fre : 频率，单位Hz，不小于95
  * @param duty : 初始占空比，0~10000对应0~100%
  */
-void timer_pwm_init(JL_TIMER_TypeDef * JL_TIMERx, u32 fre, u32 duty)
+void timer_pwm_init(JL_TIMER_TypeDef * JL_TIMERx, u32 pin, u32 fre, u32 duty)
 {
 	//设置硬件引脚为输出模式
-	u32 hw_port;
-	switch((u32)JL_TIMERx) {
-		case (u32)JL_TIMER0 :
-			hw_port = IO_PORTA_05;
-			break;
-		case (u32)JL_TIMER1 :
-			hw_port = IO_PORTC_04;
-			break;
-		case (u32)JL_TIMER2 :
-			hw_port = IO_PORTB_03;
-			break;
-		case (u32)JL_TIMER3 :
-			hw_port = IO_PORTB_05;
-			break;
-		case (u32)JL_TIMER4 :
-			hw_port = IO_PORTA_01;
-			break;
-		case (u32)JL_TIMER5 :
-			hw_port = IO_PORTB_07;
-			break;
-		default:
-			return;
-	}
+	u32 hw_port = pin;
+
 	gpio_set_die(hw_port, 1);
 	gpio_set_pull_up(hw_port, 0);
 	gpio_set_pull_down(hw_port, 0);
@@ -485,7 +464,7 @@ void timer_pwm_init(JL_TIMER_TypeDef * JL_TIMERx, u32 fre, u32 duty)
 	JL_TIMERx->CNT = 0;									//清计数值
 	JL_TIMERx->CON |= (0b01 << 0);						//计数模式
 	JL_TIMERx->CON |= BIT(8);							//PWM使能
-	
+
 	//设置占空比
 	JL_TIMERx->PWM = (JL_TIMERx->PRD * duty) / 10000;	//0~10000对应0~100%
 }

@@ -345,8 +345,6 @@ obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_get_adv_data_ptr,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_get_gatt_profile_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_update_get_ready_jump_flag,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,motor_pwm,pl
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_write,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_sm_setup_init,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sm_init,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sm_set_io_capabilities,l
@@ -381,9 +379,10 @@ obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,pwm_led_mode_set,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,memcmp,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,btcon_hash,l
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sys_timer_add,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,att_get_ccc_config,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,ble_user_cmd_prepare,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_write,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,set_timer_pwm_duty,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sys_timeout_add,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,puts,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,le_controller_get_mac,l
@@ -392,6 +391,7 @@ obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_direction,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_die,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,gpio_set_dieh,l
+-r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,timer_pwm_init,l
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,profile_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,user_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,jlid,pl
@@ -404,8 +404,6 @@ obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,sn,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,link_key_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,phy_result,pl
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,direction,pl
--r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.o,motor_speed,pl
 obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.o
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.o,transport_spp_send_data,pl
 -r=obj\Release\apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.o,printf,l

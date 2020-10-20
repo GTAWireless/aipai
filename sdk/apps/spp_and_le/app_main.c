@@ -61,6 +61,7 @@ static void check_power_on_key()
     u32 delay_10ms_cnt = 0;
     while(1)
     {
+
         clr_wdt();
         os_time_dly(1);
         if(gpio_read(TCFG_IOKEY_NEXT_ONE_PORT) == TCFG_IOKEY_NEXT_CONNECT_WAY)
@@ -82,7 +83,6 @@ static void check_power_on_key()
 
 }
 
-
 void app_main()
 {
     struct intent it;
@@ -98,6 +98,7 @@ void app_main()
     it.action = ACTION_SPPLE_MAIN;
 
     check_power_on_key();
+
 
 
 #endif
