@@ -143,6 +143,7 @@ static int app_send_user_data_do(void *priv, u8 *data, u16 len);
 static int app_send_user_data(u16 handle, u8 *data, u16 len, u8 handle_type);
 static int ble_disconnect(void *priv);
 static void prevent_take_up();
+static void motor_led_control(u8 direction,u8 speed, u8 led);
 
 // Complete Local Name  默认的蓝牙名字
 
@@ -523,7 +524,7 @@ static void cbk_packet_handler(uint8_t packet_type, uint16_t channel, uint8_t *p
             set_app_connect_type(TYPE_NULL);
 #endif
             ble_auto_shut_down_enable(1);
-
+            motor_led_control(1,0, 0);   //断开后关灯, 停转电机
             break;
 
         case ATT_EVENT_MTU_EXCHANGE_COMPLETE:

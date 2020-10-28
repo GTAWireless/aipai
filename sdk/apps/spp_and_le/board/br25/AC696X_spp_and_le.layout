@@ -2,9 +2,14 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Release" />
-	<File name="..\..\..\..\include_lib\system\includes.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\power_interface.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="126" topLine="6" />
+			<Cursor1 position="4334" topLine="177" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\common\custom_cfg.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37215" topLine="1080" />
 		</Cursor>
 	</File>
 	<File name="..\..\..\..\include_lib\btstack\btstack_event.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -12,184 +17,14 @@
 			<Cursor1 position="119742" topLine="3727" />
 		</Cursor>
 	</File>
-	<File name="board_ac696x_demo_cfg.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="8596" topLine="147" />
-		</Cursor>
-	</File>
-	<File name="board_config.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\app_main.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="2" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\power_interface.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4334" topLine="177" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\spp_at_com.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\gpio.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4191" topLine="122" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\device\key_driver.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="503" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\app_spp_and_le.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1156" topLine="26" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\debug.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="115" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\rtc_alarm.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1133" topLine="23" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\key\key_driver.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="8412" topLine="120" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\le_common.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="976" topLine="12" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\cpu\br25\pwm_led.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="13306" topLine="390" />
-		</Cursor>
-	</File>
-	<File name="..\..\app_main.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1642" topLine="48" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\semphr.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="26268" topLine="636" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\os\os_api.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1632" topLine="77" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\include\bt_common.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="441" topLine="7" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\JL_rcsp\rcsp_bluetooth.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="3164" topLine="142" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\user_cfg.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2968" topLine="86" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\pwm_led.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4588" topLine="120" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\br25.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="6254" topLine="196" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\le_client_demo.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\trans_data_demo\le_trans_data.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1335" topLine="31" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\driver\device\usb\device\hid.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4940" topLine="100" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\btstack\le\att.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1396" topLine="31" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\cpu\br25\mcpwm.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="15950" topLine="388" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\app_action.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="51" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\cpu\br25\setup.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2338" topLine="212" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\app_config.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="431" topLine="14" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\queue.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="54348" topLine="1558" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\device\iokey.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="342" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\cpu\br25\port_wkup.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="508" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\trans_data_demo\aipai_new_data.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="316" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\cpu.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2372" topLine="122" />
-		</Cursor>
-	</File>
 	<File name="..\..\..\common\key\adkey.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="193" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\le_at_com.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\app_spp_and_le.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="16255" topLine="516" />
+			<Cursor1 position="5921" topLine="196" />
 		</Cursor>
 	</File>
 	<File name="..\..\..\common\key\iokey.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -197,34 +32,19 @@
 			<Cursor1 position="521" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\le_at_com.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="171" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\..\include_lib\system\timer.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1224" topLine="53" />
-		</Cursor>
-	</File>
-	<File name="..\..\..\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="20198" topLine="618" />
-		</Cursor>
-	</File>
 	<File name="..\..\..\..\include_lib\system\generic\log.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="328" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="..\..\..\..\cpu\br25\adc_api.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\..\common\usb\usb_config.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="3226" topLine="143" />
+			<Cursor1 position="0" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="..\..\..\common\usb\usb_common_def.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\..\..\cpu\br25\pwm_led.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="35" />
+			<Cursor1 position="13306" topLine="390" />
 		</Cursor>
 	</File>
 	<File name="..\..\app_at_com.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -232,14 +52,124 @@
 			<Cursor1 position="18422" topLine="601" />
 		</Cursor>
 	</File>
-	<File name="..\..\at_cmds.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\..\common\usb\usb_common_def.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="5697" topLine="186" />
+			<Cursor1 position="0" topLine="35" />
 		</Cursor>
 	</File>
-	<File name="..\..\..\..\include_lib\system\app_core.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\..\common\third_party_profile\jieli\le_at_com.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="961" topLine="41" />
+			<Cursor1 position="0" topLine="171" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\os_api.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1632" topLine="77" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\device\usb\device\hid.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4940" topLine="100" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\debug.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_ac696x_demo_cfg.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8596" topLine="147" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\cpu.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2372" topLine="122" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\trans_data_demo\aipai_new_data.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="936" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\semphr.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26268" topLine="636" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\device\iokey.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="342" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\le_at_com.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38416" topLine="1302" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\trans_data_demo\le_trans_data.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1335" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_main.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\user_cfg.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2968" topLine="86" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\JL_rcsp\rcsp_bluetooth.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3164" topLine="142" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\spp_at_com.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_config.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\include\bt_common.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="441" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\key\key_driver.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8412" topLine="120" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\includes.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br25\port_wkup.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="508" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_ac696x_demo.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6156" topLine="166" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2467" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_config.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="431" topLine="14" />
 		</Cursor>
 	</File>
 	<File name="..\..\..\..\cpu\br25\chargestore.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -247,14 +177,89 @@
 			<Cursor1 position="1144" topLine="35" />
 		</Cursor>
 	</File>
-	<File name="board_ac696x_demo.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\..\..\cpu\br25\setup.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="6046" topLine="166" />
+			<Cursor1 position="2338" topLine="212" />
 		</Cursor>
 	</File>
-	<File name="..\..\..\common\usb\usb_config.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\pwm_led.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4588" topLine="120" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br25\mcpwm.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15950" topLine="388" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\le_common.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="976" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\gpio.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4191" topLine="122" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\queue.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54348" topLine="1558" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\le_client_demo.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\app_core.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="961" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\timer.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1224" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br25\asm\br25.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6254" topLine="196" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26403" topLine="849" />
+		</Cursor>
+	</File>
+	<File name="..\..\at_cmds.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5697" topLine="186" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btstack\le\att.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1396" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br25\adc_api.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3226" topLine="143" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_action.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="51" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\device\key_driver.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="503" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\rtc_alarm.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1133" topLine="23" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
